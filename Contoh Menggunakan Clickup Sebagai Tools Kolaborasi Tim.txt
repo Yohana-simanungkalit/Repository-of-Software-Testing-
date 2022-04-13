@@ -1,0 +1,44 @@
+1. Github
+
+Kelebihan
+- Penyimpanan yang berbasis file (tidak menggunakan database/SQL).
+- Gratis atau Opensource.
+- Visual Control System yang terdistribusi.
+- Mendukung dalam proyek besar seperti kernel Linux.
+- Akses yang hanya menggunakan command line tanpa menggunakan client-server.
+- Tampilan aplikasi yang mudah dipahami untuk pengguna baru.
+
+Kekurangan
+- Tidak optimal untuk pengembangan sendiri.
+- Fitur yang masih terbatas pada operasi sistem Windows, (berbeda dengan operasi sistem Linux).
+
+
+2. Slack
+Kelebihan
+- Dapat berbagi file
+- Pesan instan yang terhubung dengan berbagai platform
+- Fitur starred messages.
+- Fitur thread
+- Bisa membuat reminder untuk hal hal tertentu
+- Bebas Iklan
+
+Kekurangan
+- Pesan akan cepat hilang dalam percakapan yang intens
+- Tidak memberitahukan pesan sudah dilihat atau belum
+
+
+3. Google Workspace
+Kelebihan
+- User Interface Yang Ramah
+- Kemudahan dalam rangka kompatibilitas
+- Kemudahan Berbagi Informasi
+- Terpercaya
+- Keamanan Tinggi
+- Kapasitas penyimpanan besar
+
+Kekurangan
+- Fitur Google Meet Terbatas
+- Aplikasi ini untuk bisa berfungsi secara normal apabila koneksi internet tidak baik
+- Permasalahan Saat Konversi Dokumen
+
+
